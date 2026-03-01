@@ -24,4 +24,4 @@ This project analyzes large-scale e-commerce transaction data using Apache Spark
 - Revenue follows Pareto distribution
 
 ## Author
-Your Name
+Elsayed Hassan Elsayed Ismail
